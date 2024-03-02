@@ -10,30 +10,30 @@ public class Variables {
 //        System.out.println("age");
 //        System.out.println(33);
 //        System.out.println("My age is:" + age);
-        System.out.println("My age is: " + age);
+//        System.out.println("My age is: " + age);
 
         // Double (double is a decimal number like float but bigger!)
         double salary = 12000;
-        System.out.println("My salary is: " + salary);
+//        System.out.println("My salary is: " + salary);
         // salary will be printed as: 12000.0
 
         //Boolean
         boolean flag = true;
-        System.out.println("Everything I said here is " + flag);
+//        System.out.println("Everything I said here is " + flag);
 
         //String
         String myName = "David";
-        System.out.println(myName);
+//        System.out.println(myName);
 
         // example of how to print two variables properly with spaces to make it readable.
-        System.out.println(    myName+age  );
-        System.out.println(myName+" "+age);
+//        System.out.println(    myName+age  );
+//        System.out.println(myName+" "+age);
 //               The above two lines of code need to be reformatted (ctrl + alt + l)
 
         // Overriding variables values
-        age = 26;
-        salary = 50000;
-        flag = false;
+//        age = 26;
+//        salary = 50000;
+//        flag = false;
 
 
 
@@ -46,7 +46,7 @@ public class Variables {
 
 
         // Solution:
-        System.out.println(myName + "'s age is: " + age + ", He earns: " + salary + " and what he wrote here is " + flag);
+//        System.out.println(myName + "'s age is: " + age + ", He earns: " + salary + " and what he wrote here is " + flag);
 
 
     }
