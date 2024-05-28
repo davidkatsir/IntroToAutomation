@@ -14,7 +14,7 @@ public class ConditionsTargil4 {
         Scanner scanner = new Scanner(System.in);
 
         // הדפסת הוראה למשתמש
-        System.out.print("Please write your age");
+        System.out.print("Please write your age: ");
 
         // קריאת הקלט מהמשתמש
         int age = scanner.nextInt();
