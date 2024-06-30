@@ -31,6 +31,7 @@ public class ForLoops {
 //            if (i % 2 == 0) {
 //                System.out.println(i);
 //            }
+//        }
 //        }                  // מה היתרון והחיסרון בפתרון הזה?
 //        System.out.println("**********");
     }

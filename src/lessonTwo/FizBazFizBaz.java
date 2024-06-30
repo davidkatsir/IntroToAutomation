@@ -13,7 +13,7 @@ package lessonTwo;
 
 public class FizBazFizBaz {
     public static void main(String[] args) {
-        int n = 20; // Example usage
+        int n = 201; // Example usage
         fizBazBizBaz(n);
     }
 
